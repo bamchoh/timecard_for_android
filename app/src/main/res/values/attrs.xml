@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TimeCard">
+        <attr name="status" format="string" />
+        <attr name="datetime" format="string" />
+    </declare-styleable>
+</resources>
